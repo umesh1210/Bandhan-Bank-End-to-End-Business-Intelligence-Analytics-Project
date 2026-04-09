@@ -13,12 +13,12 @@ ToolPurposeSQL Server (T-SQL)Data extraction & transformationSSISETL workflows &
 
 📊 Dashboard Highlights:
 
-₹156.93K+ total installments processed
-₹1.4M+ total loan amount disbursed
-65 loan accounts across 4 active branches
-114.2% YoY growth in loan performance
-₹22.76K MoM profit growth
-Churn and repayment behavior tracked over time
+- ₹156.93K+ total installments processed
+- ₹1.4M+ total loan amount disbursed
+- 65 loan accounts across 4 active branches
+- 114.2% YoY growth in loan performance
+- ₹22.76K MoM profit growth
+- Churn and repayment behavior tracked over time
 
 
 🔍 Key Features:
