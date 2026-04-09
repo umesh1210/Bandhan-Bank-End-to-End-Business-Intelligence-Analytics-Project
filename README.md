@@ -1,21 +1,29 @@
-# Bandhan-Bank-End-to-End-Business-Intelligence-Analytics-Project.
-This project showcases a complete data analytics and BI solution for Bandhan Bank, focused on analyzing loan performance, customer segmentation, churn patterns, and regional growth trends. It includes data extraction, transformation, data modeling, ETL workflows (SSIS), DWH creation, and interactive reporting using Power BI.
+🏦 Bandhan Bank — End-to-End Business Intelligence & Analytics
+An end-to-end data analytics and BI solution for Bandhan Bank, analyzing loan performance, customer segmentation, churn patterns, and regional growth trends.
 
-Project Objectives:-
-Build an end-to-end analytics pipeline using SQL, SSIS, and Power BI.
-Identify high-performing and under-performing regions and branches.
-Track loan distribution, customer behavior, repayment trends, and churn.
-Provide dashboard-based decision support for business and operations teams.
+🎯 Project Objectives:
 
-This interactive Bandhan Bank Loan Performance & Growth Analytics Dashboard provides a deep view of the bank’s microfinance operations across multiple loan types, repayment performance, customer activity, 
-and year-over-year growth.
-The dashboard highlights key financial indicators such as total installments, loan amount disbursed, active vs completed loans, average revenue, loan type contribution, churn patterns, and month-on-month growth trends, enabling microfinance-driven strategic decision-making.
+Build an end-to-end analytics pipeline using SQL, SSIS, and Power BI
+Identify high-performing and under-performing regions and branches
+Track loan distribution, customer behavior, repayment trends, and churn
+Provide dashboard-based decision support for business and operations teams
 
-🔍 Key Insights Visible in Dashboard:-
-1. ₹156.93K+ total installments amount processed
-2. ₹1.4M+ total loan amount disbursed
-3. 65 total loan accounts across 4 active branches
-4. 114.2% YoY growth in loan performance
-5. Monthly loan type emerges as a major contributor
-6. Positive profit trend with ₹22.76K MoM growth
-7. Churn and repayment behavior tracked over time
+🛠️ Tech Stack:
+ToolPurposeSQL Server (T-SQL)Data extraction & transformationSSISETL workflows & data loadingPower BIInteractive dashboards & reportingStar SchemaData warehouse modeling
+
+📊 Dashboard Highlights:
+
+₹156.93K+ total installments processed
+₹1.4M+ total loan amount disbursed
+65 loan accounts across 4 active branches
+114.2% YoY growth in loan performance
+₹22.76K MoM profit growth
+Churn and repayment behavior tracked over time
+
+
+🔍 Key Features:
+
+Loan type contribution and distribution analysis
+Customer segmentation and churn pattern tracking
+Regional and branch-level performance comparison
+Month-on-month and year-over-year growth trends
